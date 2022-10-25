@@ -4,3 +4,6 @@
 [submodule "pokemon-frontend"]
 	path = pokemon-frontend
 	url = https://github.com/jfpanchi2/pokemon-frontend.git
+[submodule "pokemon-scraping"]
+	path = pokemon-scraping
+	url = https://github.com/jfpanchi2/pokemon-scraping
